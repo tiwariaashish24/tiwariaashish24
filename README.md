@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **tiwariiashis04@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Open Source & Java/Web Development Projects.
 - 🤔 **I’m looking for help with:** Full stack projects.
 - 💬 **Ask me about:** Java, DSA, Web Development, Projects, and Problem-Solving.
-- 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Life is like riding a bicycle. To keep your balance, you must keep moving �
 
